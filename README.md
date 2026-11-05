@@ -1,8 +1,10 @@
 # Security Researcher Baseline
 
+[![GitHub](https://img.shields.io/badge/GitHub-andiekobbietks%2Fsecurity--researcher--baseline-blue?logo=github)](https://github.com/andiekobbietks/security-researcher-baseline)
+
 This repo documents the baseline I follow when reporting security findings, filing bug bounty reports, and doing coordinated vulnerability disclosure (CVD).
 
-It exists so maintainers, triagers, and program owners can see the standard behind my reports — and so I stay consistent across different platforms.
+It exists so maintainers, triagers, and program owners can see the standard behind my reports — and so I stay consistent across different platforms. It is pinned to my GitHub profile as my working reference.
 
 ## What this repo contains
 
